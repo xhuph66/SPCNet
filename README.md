@@ -1,8 +1,9 @@
 # SPCNet
 SPCNet
 dataset_path: path to the dataset. Structure of the dataset should be:
-dataset_path
-|-- images
+
+\t dataset_path
+ \t |-- images
  |-- img001.png
  |-- img002.png
  |-- ...
